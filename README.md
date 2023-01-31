@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chemerilcollins@gmail.com**
 
-- ⚡ Fun fact **I can center a DIV in the first trial**
+- ⚡ Fun fact **I can center a DIV on the first trial**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
