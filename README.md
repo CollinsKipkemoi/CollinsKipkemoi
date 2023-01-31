@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/41/82/a9/4182a9dd330c6442c4a1fbc78274d838.png)](https://rishavchanda.io)
+![image](https://user-images.githubusercontent.com/122127866/215644937-08a4c18e-5f21-4fed-9ad4-82962a4661e1.png)
 <h1 align="center">Hi 👋, I'm Collins Kipkemoi</h1>
 <br />
 <h3 align="center" style ="font-style="italics">"Discovering solutions in the world of code"</h3>
