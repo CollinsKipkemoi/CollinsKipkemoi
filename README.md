@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/122127866/215644937-08a4c18e-5f21-4fed-9ad4-82962a4661e1.png)
+![Header](./github-header-image(1).png)
 
 <h3>I'm a highly motivated and passionate web developer with experience in creating and delivering top-notch websites and applications. I have a strong background in front-end development and a deep understanding of modern web technologies. My goal is to provide exceptional user experiences through clean and intuitive design, coupled with efficient and reliable code. I am always seeking new challenges and opportunities to expand my skillset and deliver top-quality work. When I'm not coding, you can find me hiking, trying out new recipes, or reading a good book.</h3>
 <br>
