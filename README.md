@@ -5,12 +5,10 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" >
 
 
-<p align="left"> <a href="https://x.com/TechNerd_42?t=kpnoBleEpvBypKIOS6RV1Q&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/debugger101x?logo=twitter&style=for-the-badge" alt="debugger101x" /></a> </p>
+<p align="left"> <a href="https://x.com/TechNerd_42?t=kpnoBleEpvBypKIOS6RV1Q&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/debugger101x?logo=twitter&style=for-the-badge" alt="TechNerd42" /></a> </p>
 
 
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **Front-End Web Development**
+- 🌱 I’m currently learning **IoT and Data Analysis**
 
 - 📫 How to reach me **chemerilcollins@gmail.com**
 
@@ -18,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/debugger101x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debugger101x" height="30" width="40" /></a>
+<a href="https://x.com/TechNerd_42?t=kpnoBleEpvBypKIOS6RV1Q&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TechNerd42" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/collins kipkemoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="collins kipkemoi" height="30" width="40" /></a>
 </p>
 
