@@ -1,5 +1,5 @@
 **My Profile**
-<h3>I'm a highly motivated and passionate web developer with experience in creating and delivering top-notch websites and applications. I have a strong background in front-end development and a deep understanding of modern web technologies. My goal is to provide exceptional user experiences through clean and intuitive design, coupled with efficient and reliable code. I am always seeking new challenges and opportunities to expand my skillset and deliver top-quality work. When I'm not coding, you can find me hiking, trying out new recipes, or reading a good book.</h3>
+<h3>I'm a versatile developer with expertise in web development, Python, IoT, Golang among other skillset. My goal is to create seamless, user-centric solutions, whether for the web, Python applications, IoT projects, or Golang endeavors. I thrive on challenges, continuously expanding my skills.</h3>
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" >
