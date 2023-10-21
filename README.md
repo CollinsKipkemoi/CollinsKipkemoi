@@ -5,7 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" >
 
 
-<p align="left"> <a href="https://twitter.com/debugger101x" target="blank"><img src="https://img.shields.io/twitter/follow/debugger101x?logo=twitter&style=for-the-badge" alt="debugger101x" /></a> </p>
+<p align="left"> <a href="https://x.com/TechNerd_42?t=kpnoBleEpvBypKIOS6RV1Q&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/debugger101x?logo=twitter&style=for-the-badge" alt="debugger101x" /></a> </p>
+
 
 - 🌱 I’m currently learning **React JS**
 
