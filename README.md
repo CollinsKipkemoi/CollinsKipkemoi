@@ -16,7 +16,8 @@
 
 ###
 
-<p align="left">Location: 🌍 Hungary<br>Role: 👨‍💻 Computer Science Student<br>Specialties: 🐍 Python, ⚛️ React, 🔧 C#<br>Mission: 🚀 Turning caffeine into code, one bug at a time<br>Philosophy: 💬 Code should be clean, dreams should be debugged, and laughter is the best syntax error fix.</p>
+<p align="left">Location: 🌍 Hungary<br>Role: 👨‍💻 Computer Science Student<br>Specialties: 🐍 Python, ⚛️ React, 🔧 C#<br>Mission: 🚀 Turning caffeine into code, one bug at a time<br>Philosophy: 💬 Code should be clean, dreams should be debugged, and laughter is the best syntax error fix.
+<br>Aspiration: Maybe I should start touching grass more :) </p>
 
 ###
 
