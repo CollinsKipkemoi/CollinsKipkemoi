@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Collins here, diving into the realms of Python, React, and C# in the heart of Hungary</p>
+<p align="left">Collins here, diving into the realms of Full stack development with React JS, Node JS, Express JS, Mongo dB among others!</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Location: 🌍 Hungary<br>Role: 👨‍💻 Computer Science Student<br>Mission: 🚀 Turning caffeine into code, one sip at a time<br>Philosophy: 💬 Code should be clean, dreams should be debugged, and laughter is the best syntax error fix.
+<p align="left">Location: 🌍 Hungary<br>Role: 👨‍💻 Computer Science Student<br>Mission: 🚀 Turning caffeine into code, one sip at a time
 <br>Aspiration: Maybe I should start touching grass more :) </p>
 
 ###
