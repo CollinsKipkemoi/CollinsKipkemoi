@@ -16,8 +16,7 @@
 
 ###
 
-<p align="left">Location: 🌍 Hungary<br>Role: 👨‍💻 Computer Science Student<br>Mission: 🚀 Turning caffeine into code, one sip at a time
-<br>Aspiration: Maybe I should start touching grass more :) </p>
+<p align="left">Location: 🌍 Hungary<br>Role: 👨‍💻 Computer Science Student<br>Aspiration: Maybe I should start touching grass more :) </p>
 
 ###
 
