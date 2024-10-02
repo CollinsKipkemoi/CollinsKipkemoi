@@ -3,21 +3,7 @@
 </div>
 
 ###
-
-<h1 align="left">Greetings.print("Hello, fellow code maestro!") 👋</h1>
-
-###
-
-<p align="left">Collins here, diving into the realms of Full stack development with React JS, Node JS, Express JS, Mongo dB among others!</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">Location: 🌍 Hungary<br>Role: 👨‍💻 Computer Science Student<br>Aspiration: Maybe I should start touching grass more :) </p>
-
+  <h2> Iron CLad Dev </h2>
 ###
 
 <div align="left">
