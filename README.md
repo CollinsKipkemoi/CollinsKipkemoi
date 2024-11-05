@@ -1,6 +1,8 @@
+<!--
 <div align="center">
   <img height="154" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNwOHNuemp3aDllbHh2M21ucGxhZnE0dnF4bWk4ZWhleDh4ZnZmNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="480" height="229"  />
 </div>
+-->
 
 ###
   <h2> IronCLadDev </h2>
