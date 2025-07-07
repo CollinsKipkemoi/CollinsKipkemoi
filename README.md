@@ -1,11 +1,10 @@
+<!--Header-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Collins%20Kipkemoi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20&%20ML%20Enthusiast&descAlignY=55&descAlign=50" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Collins%20Kipkemoi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Fullstack%20Dev%20|%20AI&descAlignY=55&descAlign=50" alt="Header"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Building+AI+and+Full‑Stack+Solutions;Big+Data+%26+Algorithms+Addict;Currently+in+Budapest" alt="Typing Animation"/>
-</div>
 
+<!--Followers and Location-->
 <div align="center">
   <img src="https://img.shields.io/github/followers/CollinsKipkemoi?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/Location-Budapest%2C%20Hungary-58A6FF?style=flat-square&logo=googlemaps" alt="Location"/>
@@ -13,6 +12,7 @@
 
 <br>
 
+<!--Stats-->
 <div align="center">
   <table>
     <tr>
@@ -26,13 +26,17 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsKipkemoi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+<!--COmmits and Most used langauge-->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CollinsKipkemoi&theme=aura&utcOffset=8" alt="Productive Time" width="420" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CollinsKipkemoi&theme=aura" alt="Most Commit Language" width="420" />
 </div>
 
 
+
 <div align="center">
 
+<!--Trch stack-->
 ### 🧰 Tech Toolbox
 
 </div>
@@ -148,6 +152,7 @@
 
 <div align="center">
 
+<!--Activity-->
 ## 📊 Development Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CollinsKipkemoi&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
