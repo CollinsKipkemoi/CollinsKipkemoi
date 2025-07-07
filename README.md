@@ -1,4 +1,37 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Collins%20Kipkemoi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20&%20ML%20Enthusiast&descAlignY=55&descAlign=50" alt="Header"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Building+AI+and+Full‑Stack+Solutions;Big+Data+%26+Algorithms+Addict;Currently+in+Budapest" alt="Typing Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/CollinsKipkemoi?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/Location-Budapest%2C%20Hungary-58A6FF?style=flat-square&logo=googlemaps" alt="Location"/>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=CollinsKipkemoi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=CollinsKipkemoi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsKipkemoi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+</div>
+
+
+<div align="center">
 
 ### 🧰 Tech Toolbox
 
@@ -111,4 +144,16 @@
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+
+## 📊 Development Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CollinsKipkemoi&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
